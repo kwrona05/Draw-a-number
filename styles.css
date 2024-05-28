@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:dimgray;
+}
+
+.main {
+    background-color:darkkhaki;
+    height: 200px;
+    margin-top: 200px;
+}
+
+.element {
+    display: flex;
+    justify-content: center;
+    font-family: Snell Roundhand, cursive;
+    color:darkred;
+}
+
+button {
+    margin-left: 620px;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+p {
+    font-size: 26px;
+}
+ h1 {
+    font-size: 36px;
+ }
